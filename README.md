@@ -6,6 +6,7 @@ This project is about making a flashcards game that users can play on the comman
 ## Installation Instructions:
 Clone down the git(git@github.com:sanghoro/flashcards-starter.git) and type in "node index.js" to start the game.
 
+
 ## Preview of App:
 
 ## Pre-planning:
